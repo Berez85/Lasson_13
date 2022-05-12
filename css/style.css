@@ -21,7 +21,6 @@
 	animation-timing-function: linear;
 	animation-iteration-count: infinite;
 	animation-duration: 400s;
-	animation-duration: alternate ;
 }
 
 @keyframes cloud-white {
@@ -44,7 +43,6 @@
 	animation-timing-function: linear;
 	animation-iteration-count: infinite;
 	animation-duration: 400s;
-	animation-duration: alternate;
 }
 
 @keyframes cloud-white-two {
@@ -68,7 +66,6 @@
 	animation-timing-function: linear;
 	animation-iteration-count: infinite;
 	animation-duration: 300s;
-	animation-duration: alternate;
 }
 
 @keyframes cloud-gray {
@@ -92,7 +89,6 @@
 	animation-timing-function: linear;
 	animation-iteration-count: infinite;
 	animation-duration: 200s;
-	animation-duration: alternate;
 }
 
 @keyframes cloud-dark-grey {
@@ -117,7 +113,6 @@
 	animation-timing-function: linear;
 	animation-iteration-count: infinite;
 	animation-duration: 200s;
-	animation-duration: alternate;
 }
 
 @keyframes dark-grey-two {
@@ -141,7 +136,6 @@
 	animation-timing-function: linear;
 	animation-iteration-count: infinite;
 	animation-duration: 200s;
-	animation-duration: alternate;
 }
 
 @keyframes cloud-background {
@@ -172,7 +166,6 @@
 	animation-name: pickup;
 	animation-iteration-count: infinite;
 	animation-duration: 40s;
-	animation-duration: alternate ;
 	animation-timing-function: linear;
 }
 
@@ -990,7 +983,7 @@
 	animation-timing-function: linear;
 	animation-iteration-count: infinite;
 	animation-duration: 2s;
-	animation-duration: alternate;
+
 }
 
 @keyframes rear-wheel {
