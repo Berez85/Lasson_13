@@ -960,7 +960,7 @@
 
 @keyframes front-wheel {
 	0% {
-		transform: translate(0deg);
+		transform: rotate(0deg);
 	}
 	100% {
 		transform: rotate(-360deg);
@@ -986,7 +986,7 @@
 
 @keyframes rear-wheel {
 	0% {
-		transform: translate(0deg);
+		transform: rotate(0deg);
 	}
 
 	100% {
